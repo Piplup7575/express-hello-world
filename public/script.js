@@ -1,5 +1,5 @@
 /** you can edit the countdown messages below **/
-var countDownDate = new Date("Dec 25, 2023 00:00:00 ").getTime();
+var countDownDate = new Date("Dec 25, 2024 00:00:00 ").getTime();
 var countdownMessage = "it is chrimis merry chrysler happy crisis";
 /** you can edit the countdown messages above **/
 
